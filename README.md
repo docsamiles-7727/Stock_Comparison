@@ -16,7 +16,7 @@ A web application built with Streamlit that allows users to compare the performa
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Stock_Comparison.git
+git clone https://github.com/docsamiles-7727/Stock_Comparison.git
 cd Stock_Comparison
 ```
 
@@ -42,6 +42,11 @@ python stock_comparison.py
 - Stock symbols: AAPL, MSFT, GOOGL, TSLA
 - Market indices: ^GSPC (S&P 500), ^DJI (Dow), ^IXIC (NASDAQ)
 - ETFs: SPY, QQQ, IWM
+
+## Live Demo
+
+You can try the live version of this tool at:
+https://stock-comparison-docsamiles-7727.streamlit.app
 
 ## License
 
