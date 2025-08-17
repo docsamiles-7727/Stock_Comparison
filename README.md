@@ -46,7 +46,7 @@ python stock_comparison.py
 ## Live Demo
 
 You can try the live version of this tool at:
-https://stock-comparison-docsamiles-7727.streamlit.app
+https://stockcomparison-hqytcgelxtaqvhyhsaetxe.streamlit.app/
 
 ## License
 
