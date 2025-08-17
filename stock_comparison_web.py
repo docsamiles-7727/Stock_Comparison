@@ -341,12 +341,12 @@ current_row = 2
 if show_volume:
     fig.add_trace(
         go.Bar(x=df.index, y=df[f"{ticker1}_volume"], name=f"{ticker1} Volume",
-               marker_color='lightblue', opacity=0.5),
+               marker_color='rgba(0,0,255,0.3)', opacity=0.5),
         row=current_row, col=1
     )
     fig.add_trace(
         go.Bar(x=df.index, y=df[f"{ticker2}_volume"], name=f"{ticker2} Volume",
-               marker_color='lightred', opacity=0.5),
+               marker_color='rgba(255,0,0,0.3)', opacity=0.5),
         row=current_row, col=1
     )
     current_row += 1
